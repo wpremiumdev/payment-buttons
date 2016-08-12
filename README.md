@@ -22,3 +22,9 @@ Easy steps to install the plugin:
 *	Upload "paypal-payment-buttons" folder/directory to the /wp-content/plugins/ directory
 *	Activate the plugin through the 'Plugins' menu in WordPress.
 *   Go to: Settings > Checkout > PayPal Button  to configure the plugin.
+
+### Documentation
+
+*	<a href="https://www.premiumdev.com/product/payment-buttons/" target="_blank">Docs</a>
+*	<a href="http://wordpress.org/support/plugin/payment-buttons" target="_blank">Support</a>
+*	<a href="http://wordpress.org/support/view/plugin-reviews/payment-buttons" target="_blank">Write a Review</a>
